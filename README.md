@@ -8,3 +8,5 @@ The code can be directly accessed by this link: https://code.earthengine.google.
 Note: This GEE code is used to generate the time series of each variable.
       Normalization step needs to implemented offline (e.g., using SciPy)
       (https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html)
+
+If offline calculation is desired, please download the GRSAD data directly from https://doi.org/10.18738/T8/DF80WG
